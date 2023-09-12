@@ -1,6 +1,6 @@
 ﻿blinker==1.5
 click==8.0.4
-colorama==0.4.6
+colorama==0.4.5
 Flask==2.3.3
 itsdangerous==2.1.2
 Jinja2==3.1.2
